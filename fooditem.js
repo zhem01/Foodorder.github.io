@@ -15,7 +15,7 @@ const foodItem=[
         category : 'soup',
         rating: 4.3,
         price:60,
-        img: 'album/soup/fish,soup.jpg',
+        img: 'fish,soup.jpg',
         quantity:1,
     },
     {
