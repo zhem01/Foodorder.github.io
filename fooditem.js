@@ -6,7 +6,7 @@ const foodItem=[
         category : 'soup',
         rating: 4.3,
         price: 60,
-        img: 'album/fried/rice,chicken-fried.jpg',
+        img: 'rice,chicken-fried.jpg',
         quantity:1,
     },
     {
