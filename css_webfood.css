@@ -426,7 +426,7 @@ body{
     }
     #item-card img{
         width: 130px;
-        height: 100px;
+        height: 110px;
     }
     #item-card:hover img{
         transform: none       ;
